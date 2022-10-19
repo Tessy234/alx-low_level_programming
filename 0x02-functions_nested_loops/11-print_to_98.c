@@ -1,21 +1,3 @@
-#include "main.h"
-
-/**
- * add - Adds two integers and returns
- * the result.
- *
- * @a: number one.
- * @b: number two.
- *
- * Return: Add of number one and number two.
- */
-int add(int a, int b)
-{
-	return (a + b);
-}
-
-Task 11
-
 #include <stdio.h>
 /**
  * print_to_98 - Prints all natural numbers
@@ -42,4 +24,4 @@ void print_to_98(int n)
 		}
 	}
 	printf("%d\n", n);
-}
+}}
