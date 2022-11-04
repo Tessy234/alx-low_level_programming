@@ -8,6 +8,7 @@
 * Return: Nothing.
 **/
 void set_string(char **s, char *to)
+ /* to get real value */
 {
 *s = to;
 }
