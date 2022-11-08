@@ -1,5 +1,7 @@
-i#ifndef HOLBERTON_H
-#define HOLBERTON_H
+#ifndef MAIN_H
+#define MAIN_H
+#include <stdlib.h>
+#include <studio h>
 
 int _putchar(char c);
 char *create_array(unsigned int size, char c);
